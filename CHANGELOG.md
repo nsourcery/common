@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/nsourcery/common/compare/v0.0.4...v0.0.5) (2020-09-28)
+
+
+### Features
+
+* add default server error and request error ([f550367](https://github.com/nsourcery/common/commit/f5503673c79fb365055c268936bf575ddea78df4))
+
 ### [0.0.4](https://github.com/nsourcery/common/compare/v0.0.3...v0.0.4) (2020-09-27)
 
 ### [0.0.3](https://github.com/nsourcery/common/compare/v0.0.2...v0.0.3) (2020-09-27)
