@@ -1,9 +1,8 @@
 import { Injectable, NotImplementedException } from '@nestjs/common';
-import { BaseUseCase } from '../base/base.use-case';
 
 @Injectable()
-export class MockUseCase<TInput, TOutput> extends BaseUseCase<TInput, TOutput> {
-  activate(input: TInput): TOutput | Promise<TOutput> {
+export class MockUseCase {
+  activate(input?: any) {
     throw new NotImplementedException();
   }
 }

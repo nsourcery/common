@@ -6,3 +6,6 @@ export * from './base/base.use-case';
 export * from './mock/mock-environment.service';
 export * from './mock/mock.repository';
 export * from './mock/mock.use-case';
+
+export * from './error/request-error';
+export * from './error/server-error';
