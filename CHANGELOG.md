@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/nsourcery/common/compare/v0.0.5...v0.0.6) (2020-09-29)
+
+
+### Features
+
+* in-headers custom decorator ([2958146](https://github.com/nsourcery/common/commit/295814671c1525820ce32d363d6f21f1726f798f))
+
 ### [0.0.5](https://github.com/nsourcery/common/compare/v0.0.4...v0.0.5) (2020-09-28)
 
 
